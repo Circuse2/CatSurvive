@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48c725b249d4b2444a0a88ef69c2b3a0, type: 3}
+  m_Name: AttackDamageItemUpgrade2
+  m_EditorClassIdentifier: 
+  upgradeType: 1
+  Name: "\u0421\u0438\u043B\u0430 \u0430\u0442\u0430\u043A\u0438"
+  description: "\u0423\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+    \u0441\u0438\u043B\u0443 \u0430\u0442\u0430\u043A\u0438 \u043D\u0430 10"
+  icon: {fileID: 168073657, guid: 9232714b22f60c241810b17610b37394, type: 3}
+  item: {fileID: 11400000, guid: 097e140eeb43ea1428056095628982c3, type: 2}
+  itemStats:
+    armor: 0
+    hp: 0
+    attackRange: 0
+    attackDamage: 10

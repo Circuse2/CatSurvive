@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48c725b249d4b2444a0a88ef69c2b3a0, type: 3}
+  m_Name: HpItemUpgrade2
+  m_EditorClassIdentifier: 
+  upgradeType: 1
+  Name: "\u0417\u0434\u043E\u0440\u043E\u0432\u044C\u0435"
+  description: "\u0423\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+    \u0437\u0434\u043E\u0440\u043E\u0432\u044C\u0435 \u043D\u0430 100"
+  icon: {fileID: -872640684, guid: 54317603825f1fc4dab9d8d206624c51, type: 3}
+  item: {fileID: 11400000, guid: 15008cd61e33b474e9c5280975f2e868, type: 2}
+  itemStats:
+    armor: 0
+    hp: 100
